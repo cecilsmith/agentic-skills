@@ -8,11 +8,14 @@ Each skill is a directory with a `SKILL.md` plus the reference material and
 scripts it needs. The format is provider-neutral: the same directory works in
 Claude Code, in Codex, and in anything else implementing the standard.
 
+Many of these are bits and pieces (in part or whole) of skills that others have produced. Inspiration comes from: [pstack](https://github.com/cursor/plugins/tree/main/pstack) and others.
+
 ## Skills
 
 | Skill                              | What it covers                                                                                               |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [`kicad`](skills/kicad/SKILL.md)   | KiCad file formats, symbol/footprint libraries, `kicad-cli`, schematic and layout review, fabrication output |
+| [`technical-writing`](skills/technical-writing/SKILL.md) | Write technical text following best practices. Used for writing or reviewing docs, RFCs, readmes, PR descriptions, or commit messages |
 | [`unslop`](skills/unslop/SKILL.md) | Edit text to remove AI patterns and add human voice.                                                         |
 
 ## Install
