@@ -7,7 +7,6 @@ description: >-
   managing symbol, footprint, or 3D-model libraries and library tables;
   generating gerbers, drill files, pick-and-place, BOM, or STEP output; or
   preparing a board for JLCPCB, PCBWay, or another fab house.
-license: MIT
 metadata:
   version: 0.1.0
   kicad-versions: "8.x, 9.x"
