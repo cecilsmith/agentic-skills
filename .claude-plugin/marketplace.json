@@ -1,0 +1,22 @@
+{
+  "name": "agentic-skills",
+  "owner": {
+    "name": "cecilsmith",
+    "url": "https://github.com/cecilsmith"
+  },
+  "plugins": [
+    {
+      "name": "agentic-skills",
+      "source": "./",
+      "description": "Curated engineering skills: hardware, embedded, and robotics.",
+      "keywords": [
+        "jetson",
+        "pcb",
+        "hardware",
+        "embedded",
+        "robotics",
+        "kicad"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "agentic-skills",
+  "description": "Curated engineering skills: hardware, embedded, and robotics.",
+  "version": "0.1.0",
+  "author": {
+    "name": "cecilsmith"
+  },
+  "homepage": "https://github.com/cecilsmith/agentic-skills",
+  "repository": "https://github.com/cecilsmith/agentic-skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "pcb",
+    "hardware",
+    "embedded",
+    "robotics",
+    "kicad"
+  ],
+  "skills": [
+    "./skills/kicad",
+    "./skills/unslop"
+  ]
+}
