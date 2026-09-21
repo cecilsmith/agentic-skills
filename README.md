@@ -17,6 +17,7 @@ Many of these are bits and pieces (in part or whole) of skills that others have 
 | [`kicad`](skills/kicad/SKILL.md)   | KiCad file formats, symbol/footprint libraries, `kicad-cli`, schematic and layout review, fabrication output |
 | [`technical-writing`](skills/technical-writing/SKILL.md) | Write technical text following best practices. Used for writing or reviewing docs, RFCs, readmes, PR descriptions, or commit messages |
 | [`unslop`](skills/unslop/SKILL.md) | Edit text to remove AI patterns and add human voice.                                                         |
+| [`typesafe-ai`](skills/typesafe-ai/SKILL.md) | Add support for building with TypeSafe-AI's Jev agent | 
 
 ## Install
 

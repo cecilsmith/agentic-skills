@@ -1,7 +1,7 @@
 {
   "name": "agentic-skills",
   "description": "Curated engineering skills: hardware, embedded, and robotics.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "cecilsmith"
   },
@@ -19,6 +19,7 @@
   ],
   "skills": [
     "./skills/kicad",
-    "./skills/unslop"
+    "./skills/unslop",
+    "./skills/typesafe-ai"
   ]
 }

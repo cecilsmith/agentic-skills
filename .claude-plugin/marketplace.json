@@ -15,7 +15,9 @@
         "hardware",
         "embedded",
         "robotics",
-        "kicad"
+        "kicad",
+        "jev",
+        "typesafe-ai"
       ]
     }
   ]
